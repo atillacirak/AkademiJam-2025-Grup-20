@@ -4,6 +4,7 @@ public class CamControl : MonoBehaviour
 {
     public float sensX;
     public float sensY;
+    public bool isLocked = false;
     
     public Transform orientation;
     public Transform character;
@@ -21,18 +22,22 @@ public class CamControl : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        float mouseX = Input.GetAxisRaw("Mouse X") * Time.deltaTime * sensX; // Mouse'un X eksenindeki hareketini alýr
-        float mouseY = Input.GetAxisRaw("Mouse Y") * Time.deltaTime * sensY; // Mouse'un Y eksenindeki hareketini alýr
+        if (isLocked) return;
+        {
+            float mouseX = Input.GetAxisRaw("Mouse X") * Time.deltaTime * sensX; // Mouse'un X eksenindeki hareketini alýr
+            float mouseY = Input.GetAxisRaw("Mouse Y") * Time.deltaTime * sensY; // Mouse'un Y eksenindeki hareketini alýr
 
-        yRotation += mouseX; 
+            yRotation += mouseX;
 
-        xRotation -= mouseY;
-        xRotation = Mathf.Clamp(xRotation, -90f, 90f); // X rotasyonunu -90 ile 90 arasýnda sýnýrlar
+            xRotation -= mouseY;
+            xRotation = Mathf.Clamp(xRotation, -90f, 90f); // X rotasyonunu -90 ile 90 arasýnda sýnýrlar
 
-        //rotate camera and orientation
-        transform.rotation = Quaternion.Euler(xRotation, yRotation, 0); // Transform'un rotasyonunu ayarlar
-        orientation.rotation = Quaternion.Euler(0, yRotation, 0); // Orientation'un rotasyonunu ayarlar
-        //rotate character
-        character.rotation = Quaternion.Euler(-90, 0, yRotation); // Karakterin rotasyonunu ayarlar
+            //rotate camera and orientation
+            transform.rotation = Quaternion.Euler(xRotation, yRotation, 0); // Transform'un rotasyonunu ayarlar
+            orientation.rotation = Quaternion.Euler(0, yRotation, 0); // Orientation'un rotasyonunu ayarlar
+                                                                      //rotate character
+            character.rotation = Quaternion.Euler(-90, 0, yRotation); // Karakterin rotasyonunu ayarlar
+        }
+
     }
 }
