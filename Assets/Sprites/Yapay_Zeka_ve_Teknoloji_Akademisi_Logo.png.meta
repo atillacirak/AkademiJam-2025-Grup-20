@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 73edac4d9ceccb4458d1c9d61bf1ffa1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_0
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 708
+        width: 826
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6fe4a7586973e459630b26c5e24f44
+      internalID: -34132478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_1
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 538
+        width: 147
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965473f0b1c02cc48a027fcdc854831f
+      internalID: -1471563830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_2
+      rect:
+        serializedVersion: 2
+        x: 1297
+        y: 506
+        width: 147
+        height: 360
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0f684c9295f5d41a2b308c10284cca
+      internalID: 1924862013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_3
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 582
+        width: 205
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acf473441535a349b839c3b34afd35a
+      internalID: -1750637978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_4
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 580
+        width: 145
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a801106cf23cbf4f87b4856553f9068
+      internalID: -1246893894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_5
+      rect:
+        serializedVersion: 2
+        x: 2118
+        y: 523
+        width: 174
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ded4e4ef3a04c41a2e577eadc9e310
+      internalID: -1358316526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_6
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 580
+        width: 147
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c906f4a0533e64d8eb61d057c69a80
+      internalID: -840499900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_7
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 521
+        width: 180
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7aec6d9186cff458a77b9cd8f19455
+      internalID: -11375121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_8
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 582
+        width: 185
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884ead84cd530fb4fb3048fdeb3d561a
+      internalID: -1377399199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_9
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 580
+        width: 167
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70bb5a54beb8534b931ee1762d41b4e
+      internalID: 1021123063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_10
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 582
+        width: 165
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd0b8152b05813448d8c47db309211d
+      internalID: -1699725989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_11
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 580
+        width: 145
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c3ec980b6d5b04db5a55d6feff1a07
+      internalID: 1691036938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_12
+      rect:
+        serializedVersion: 2
+        x: 3513
+        y: 582
+        width: 176
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727700fdd36d7ff42929dd5a3b416ae9
+      internalID: 1416322783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_13
+      rect:
+        serializedVersion: 2
+        x: 3689
+        y: 580
+        width: 165
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ff28f444faeb14596ee711166b7a0f
+      internalID: 1352629616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_14
+      rect:
+        serializedVersion: 2
+        x: 1526
+        y: 627
+        width: 148
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d88a78c53ab1ec4b8012832e0314312
+      internalID: 991102931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_15
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 215
+        width: 180
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28327cc55e2aa5f4ea0558cfdc11a0a5
+      internalID: -1534031884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_16
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 215
+        width: 164
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de714cc4a2d67c498e42f6ea3a8f871
+      internalID: -1871463368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_17
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 215
+        width: 35
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0bc1bfc21157ae49ad804dce27aa9fc
+      internalID: 1760098110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_18
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 409
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9734be87d9b7b4a8b4d581210cb65a
+      internalID: 1411491410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_19
+      rect:
+        serializedVersion: 2
+        x: 2582
+        y: 409
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e49dce4862d6b4ab90e90e74af14e4
+      internalID: 314198689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_20
+      rect:
+        serializedVersion: 2
+        x: 2714
+        y: 215
+        width: 230
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098d09c214bfa3c4e876b72469758664
+      internalID: -92597343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_21
+      rect:
+        serializedVersion: 2
+        x: 2960
+        y: 215
+        width: 165
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d029b4b47f4df048b7ac2a2fab8116a
+      internalID: 126075246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_22
+      rect:
+        serializedVersion: 2
+        x: 3302
+        y: 213
+        width: 174
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc06b5542de5e647b55317b40be3c80
+      internalID: 1824939684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_23
+      rect:
+        serializedVersion: 2
+        x: 4017
+        y: 409
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7c52320665c5f40b448c2d65404a63
+      internalID: 1417613317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_24
+      rect:
+        serializedVersion: 2
+        x: 4243
+        y: 409
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67c5540b2066eb49b0e61e2995bb942
+      internalID: 1277203385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_25
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 213
+        width: 167
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03eb8806f5b9d834bb56038445e91e14
+      internalID: -818336724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_26
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 215
+        width: 158
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e776f5a9521624ea4572fd2f6c9de6
+      internalID: -1861399012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_27
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 213
+        width: 173
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8624e277461001499cfb879eb3b9ac5
+      internalID: 256614000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_28
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 213
+        width: 173
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855a7e47d706c434c8a8a39e96dcadc6
+      internalID: -601114624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_29
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 154
+        width: 90
+        height: 226
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0666cfbfa530941ac3c9ca9426f1e0
+      internalID: -1308887286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_30
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 215
+        width: 35
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94f3e05937e2ca43a6e0afea2fd8bc5
+      internalID: 2105582710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_31
+      rect:
+        serializedVersion: 2
+        x: 3127
+        y: 213
+        width: 147
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15303ef32db9e44ba7806b4c8a82d53
+      internalID: 196716343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_32
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 213
+        width: 165
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5792d1aeb678d4e820849129c1d124
+      internalID: -551257805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_33
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 215
+        width: 275
+        height: 167
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53bdbea091ba6f4b8ec08d4af5399ad
+      internalID: -150713429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_34
+      rect:
+        serializedVersion: 2
+        x: 4021
+        y: 215
+        width: 33
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4796a4621e13fb47a995208760922fa
+      internalID: -1267475627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_35
+      rect:
+        serializedVersion: 2
+        x: 4080
+        y: 213
+        width: 141
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23901e3ee0b41e74497576c546dd42a5
+      internalID: 1910969028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_36
+      rect:
+        serializedVersion: 2
+        x: 4247
+        y: 215
+        width: 35
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdb345616199fc4dadc3ed2a1bdd615
+      internalID: 475618352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_37
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 523
+        width: 507
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc596ac199258940bae7097f0305807
+      internalID: -474148371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_38
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 66
+        width: 826
+        height: 1039
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff95a400c80397e45ae9a9928cd2e7d2
+      internalID: 1599099158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_0: -34132478
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_1: -1471563830
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_10: -1699725989
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_11: 1691036938
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_12: 1416322783
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_13: 1352629616
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_14: 991102931
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_15: -1534031884
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_16: -1871463368
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_17: 1760098110
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_18: 1411491410
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_19: 314198689
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_2: 1924862013
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_20: -92597343
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_21: 126075246
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_22: 1824939684
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_23: 1417613317
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_24: 1277203385
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_25: -818336724
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_26: -1861399012
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_27: 256614000
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_28: -601114624
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_29: -1308887286
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_3: -1750637978
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_30: 2105582710
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_31: 196716343
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_32: -551257805
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_33: -150713429
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_34: -1267475627
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_35: 1910969028
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_36: 475618352
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_37: -474148371
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_38: 1599099158
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_4: -1246893894
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_5: -1358316526
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_6: -840499900
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_7: -11375121
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_8: -1377399199
+      Yapay_Zeka_ve_Teknoloji_Akademisi_Logo_9: 1021123063
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
