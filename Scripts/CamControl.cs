@@ -35,8 +35,9 @@ public class CamControl : MonoBehaviour
             //rotate camera and orientation
             transform.rotation = Quaternion.Euler(xRotation, yRotation, 0); // Transform'un rotasyonunu ayarlar
             orientation.rotation = Quaternion.Euler(0, yRotation, 0); // Orientation'un rotasyonunu ayarlar
-                                                                      //rotate character
-            character.rotation = Quaternion.Euler(-90, 0, yRotation); // Karakterin rotasyonunu ayarlar
+
+            //rotate character
+            character.rotation = Quaternion.Euler(0, yRotation, 0); // Karakterin rotasyonunu ayarlar
         }
 
     }

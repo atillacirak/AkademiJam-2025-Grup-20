@@ -8,7 +8,10 @@ public class PlayerInteraction1 : MonoBehaviour
     public GameObject computerScreen;
     public Transform screenLookTarget;
     public Transform cameraHolder;
+    public Transform PlayerF;
     public KeyCode interactKey = KeyCode.E;
+    public Transform nextPoint;
+    public Animator playerAnimator;
 
     [Header("Settings")]
     public float cameraMoveDuration = 0.8f;
@@ -43,10 +46,13 @@ public class PlayerInteraction1 : MonoBehaviour
         {
             if (!isUsingComputer)
             {
+                rb.detectCollisions = false;
                 SitDown();
                 if (camControl != null)
                     camControl.isLocked = true;
                 StartCoroutine(MoveCameraToScreen());
+                playerAnimator.SetBool("isSitting", true); // Animator'da "isSitting" parametresini true yap
+
 
             }
             else
@@ -65,6 +71,7 @@ public class PlayerInteraction1 : MonoBehaviour
     {
         if (sitPoint == null) return;
 
+        rb.detectCollisions = false;
         transform.position = sitPoint.position;
         transform.rotation = sitPoint.rotation;
 
@@ -138,7 +145,7 @@ public class PlayerInteraction1 : MonoBehaviour
         }
     }
 
-    void CloseComputer()
+    public void CloseComputer()
     {
         if (computerScreen != null)
         {
