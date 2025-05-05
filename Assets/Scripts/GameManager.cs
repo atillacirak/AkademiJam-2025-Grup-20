@@ -1,6 +1,7 @@
 using UnityEngine;
 using System.Collections;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class GameManager : MonoBehaviour
 {
@@ -98,24 +99,21 @@ public class GameManager : MonoBehaviour
     public void EnemyReachedCore(EnemyMovement enemy)
     {
         if (isGameOver) return; 
-
-        Debug.Log("GAME OVER - An enemy reached the core!");
         isGameOver = true;
 
-        // game over ekle
 
         if (spawnCoroutine != null)
         {
             StopCoroutine(spawnCoroutine);
             spawnCoroutine = null;
         }
+        LoadNextScene();
     }
 
     void WinGame()
     {
         if (isGameOver) return;
 
-        Debug.Log("YOU WIN! Survived for " + survivalTimeGoal + " seconds.");
         isGameOver = true;
 
         // zafer ekle
@@ -125,6 +123,7 @@ public class GameManager : MonoBehaviour
             StopCoroutine(spawnCoroutine);
             spawnCoroutine = null;
         }
+        LoadNextScene();
     }
 
     void UpdateScoreUI()
@@ -132,6 +131,18 @@ public class GameManager : MonoBehaviour
         if (scoreText != null)
         {
             scoreText.text = "Score: " + score;
+        }
+    }
+    private void LoadNextScene()
+    {
+        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
+
+
+        int nextSceneIndex = currentSceneIndex + 1;
+
+        if (nextSceneIndex < SceneManager.sceneCountInBuildSettings)
+        {
+            SceneManager.LoadScene(nextSceneIndex);
         }
     }
 }
