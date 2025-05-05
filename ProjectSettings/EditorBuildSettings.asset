@@ -5,12 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/2D Platformer.unity
     guid: f14b4fbf6847f3646a26f2975970ea62
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/2D TopDown Shooter.unity
     guid: 7a2322d44af673a4792d1044c314976d
+  - enabled: 1
+    path: Assets/Scenes/Pac-Man.unity
+    guid: 6593997312e5ec24799973534afbc1eb
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
